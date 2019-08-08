@@ -42,6 +42,6 @@ class TwitterBot:
                 except Exception as ex:
                     time.sleep(5)
 
-bruh = TwitterBot("kakaroachy@gmail.com", "farthpoopity113")
+bruh = TwitterBot("enter username here", "enter password here")
 bruh.login()
-bruh.follow("fortnite")
+bruh.follow("enter hashtag here")
